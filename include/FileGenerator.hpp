@@ -1,7 +1,7 @@
 #ifndef FILEGENERATOR_HPP
 #define FILEGENERATOR_HPP
 
-#include <nlohmann/json.hpp>
+#include "json.hpp"
 
 class FileGenerator {
     public:

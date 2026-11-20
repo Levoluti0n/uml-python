@@ -4,7 +4,7 @@
 #include "helper.hpp"
 #include "AST.hpp"
 
-#include <nlohmann/json.hpp>
+#include <json.hpp>
 #include <iostream>
 #include <string>
 

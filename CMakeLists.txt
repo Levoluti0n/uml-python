@@ -13,6 +13,3 @@ add_executable(cpp-python-uml
 )
 
 target_include_directories(cpp-python-uml PUBLIC include)
-
-find_package(nlohmann_json REQUIRED)
-target_link_libraries(cpp-python-uml nlohmann_json::nlohmann_json)
