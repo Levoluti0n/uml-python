@@ -1,0 +1,3 @@
+/Users/picsartacademy/Documents/uml_generator_cpp/build/CMakeFiles/cpp-python-uml.dir
+/Users/picsartacademy/Documents/uml_generator_cpp/build/CMakeFiles/edit_cache.dir
+/Users/picsartacademy/Documents/uml_generator_cpp/build/CMakeFiles/rebuild_cache.dir
